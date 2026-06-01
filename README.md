@@ -25,10 +25,12 @@
 **CIRCUIT DIAGRAM:**
 
 
+<img width="1040" height="1552" alt="WhatsApp Image 2026-06-01 at 18 31 41" src="https://github.com/user-attachments/assets/338652f7-07b4-4c11-9a7b-5a7d61084e44" />
 
 
 
 
+<img width="990" height="1546" alt="WhatsApp Image 2026-06-01 at 18 31 42" src="https://github.com/user-attachments/assets/43d4df27-8f09-450c-9426-d28aff7e8d80" />
 
 
 
